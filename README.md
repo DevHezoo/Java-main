@@ -1,4 +1,4 @@
-![img](https://raw.githubusercontent.com/IbrahimAmin2024/Python/main/Archive/Repos/java_ico.png)
+![img](https://raw.githubusercontent.com/DevHezoo/C-main/refs/heads/main/Projects/Archive/Repos/java_ico.png)
 
 # Java language 💥
 
